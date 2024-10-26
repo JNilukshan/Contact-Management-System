@@ -2,7 +2,6 @@
 
 A sleek and intuitive React Native mobile application for managing your contacts efficiently. This frontend application seamlessly integrates with the Contact Management System backend to provide a complete contact management solution.
 
-![Contacts App Banner](/api/placeholder/800/200)
 
 ## ✨ Features
 
@@ -67,24 +66,6 @@ npm start
 - **AsyncStorage** - Local data persistence
 - **React Native Paper** - UI component library
 
-## 📱 Screenshots
-
-![App Screenshot 1](/api/placeholder/250/500)
-![App Screenshot 2](/api/placeholder/250/500)
-![App Screenshot 3](/api/placeholder/250/500)
-
-## 🔧 Configuration
-
-The application can be configured through the `src/config.js` file:
-
-```javascript
-export default {
-  API_URL: process.env.API_URL || 'http://localhost:3000/api',
-  TIMEOUT: 5000,
-  VERSION: '1.0.0'
-};
-```
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -103,9 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - All contributors who participate in this project
 - The open-source community for their invaluable resources
 
-## 📞 Support
-
-For support, please email support@contactmanager.com or join our Slack channel.
-
----
 Made with ❤️ by Your Janith Nilukshan
